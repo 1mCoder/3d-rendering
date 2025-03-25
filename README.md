@@ -1,9 +1,9 @@
 # 3D Rendering using Python 🎨✨
-![Model](project_output/step_3/texture/frames/diablo3_pose/diablo3_pose_350.png?raw=true)
-
 This repository provides a hands-on educational experience to understand the basics of 3D rendering and graphics. It uses Python to generate various rendering techniques like basic lighting, texture mapping, and the z-buffer algorithm.
 
 The project takes 3D models and textures as input, processes them, and outputs rendered frames and animations to visualize the results.
+
+![Model](project_output/step_3/texture/frames/diablo3_pose/diablo3_pose_350.png?raw=true)
 
 ## Project Structure 🗂️
 
