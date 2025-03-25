@@ -45,4 +45,3 @@ This project uses the following Python libraries:
 - `PIL` (Pillow)
 - `random`
 - `matplotlib`
-```
